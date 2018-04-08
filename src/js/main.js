@@ -24,4 +24,3 @@ input.addEventListener('focus', () => {
     }
   });
 });
-
